@@ -52,3 +52,4 @@ while True:
         arquivo.writelines(cadastro)
         cadastro.clear()
         arquivo.close()
+print('teste')
